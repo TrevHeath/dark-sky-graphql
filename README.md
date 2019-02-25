@@ -4,14 +4,14 @@
 
 <div align="center"><img src="https://imgur.com/1MfnLVl.png" /></div>
 
-<div align="center"><strong>🚀 Query Weather forecasts and information straight from weather.gov using GraphQL!</strong></div>
-<div align="center">GraphQL API for Weather.gov - based on best practices from the GraphQL community.</div>
+<div align="center"><strong>🚀 Query Weather forecasts and information straight from https://darksky.net using GraphQ</strong></div>
+<div align="center">GraphQL API for darksky.net - based on best practices from the GraphQL community.</div>
 
 ## Getting started
 
 ```sh
 # 1. Clone this repo
-git clone https://github.com/trevheath/weather-graphql.git
+git clone https://github.com/trevheath/dark-sky-graphql.git
 
 # 2. Navigate to the new project
 cd weather-graphql
