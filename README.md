@@ -33,7 +33,7 @@ npm run dev
 
 - WIP
 
-<a>https://www.weather.gov/documentation/services-web-api#/</a>
+<a>https://darksky.net/dev/docs</a>
 
 ### Commands
 
