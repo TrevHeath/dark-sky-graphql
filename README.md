@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Weather.gov Graphql API - WIP</strong></h1>
+<h1 align="center"><strong>darksky.net Graphql API - WIP</strong></h1>
 
 <br />
 
